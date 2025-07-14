@@ -1,6 +1,6 @@
-front : https://github.com/jiyoonyee/DBase-frontend
-back : https://github.com/sw347/DBase-backend
-ai : https://github.com/hyun071111/DBase-AI
+front : https://github.com/jiyoonyee/DBase-frontend   
+back : https://github.com/sw347/DBase-backend   
+ai : https://github.com/hyun071111/DBase-AI   
 
 -------------
 횐경 설정 시 필요

@@ -2,6 +2,8 @@ front : https://github.com/jiyoonyee/DBase-frontend
 back : https://github.com/sw347/DBase-backend   
 ai : https://github.com/hyun071111/DBase-AI   
    
+배포 : https://dbase.o-r.kr/   
+   
 -------------   
 # 환경 설정 시 필요   
 - front : node.js (22.16.0), npm install -g pnpm   
